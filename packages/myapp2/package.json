@@ -1,0 +1,10 @@
+{
+  "name": "@thollander/myapp2",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "dependencies": {
+    "@thollander/mylib": "1.0.0"
+  }
+}
